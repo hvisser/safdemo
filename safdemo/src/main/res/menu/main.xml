@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.neenbedanktk.safdemo.MainActivity">
+
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/delete_document"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
